@@ -20,5 +20,3 @@ completion-scope: Class Implementation
 {
   <#code#>
 }
-
-swswsws

@@ -20,4 +20,3 @@ completion-scope: Class Implementation
 - (void)encodeWithCoder:(NSCoder *)coder {
   <# implementation #>
 }
-testxxx

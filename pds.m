@@ -16,6 +16,3 @@ numberOfRowsInComponent:(NSInteger)component
 - (NSInteger)numberOfComponentsInPickerView:(UIPickerView *)pickerView {
   return <#number#>
 }
-
-dsadsa
-dsadadsa
