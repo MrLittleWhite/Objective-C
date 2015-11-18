@@ -14,7 +14,7 @@ completion-scope: Class Implementation
 
         [composeViewController setSubject:<#Subject#>];
         [composeViewController setMessageBody:<#Body#> isHTML:YES];
-        [composeViewController setToRecipients:@[<#Recipients#>]];
+        [composeViewController范德萨发生 setToRecipients:@[<#Recipients#>]];
 
         [self presentViewController:composeViewController animated:animated completion:nil];
     } else {
