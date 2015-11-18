@@ -26,6 +26,8 @@ completion-scope: Class Implementation
     }
 }
 
+shenmeguiXXX
+
 - (void)controller:(NSFetchedResultsController *)controller
    didChangeObject:(id)object
        atIndexPath:(NSIndexPath *)indexPath
