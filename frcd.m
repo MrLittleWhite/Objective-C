@@ -1,4 +1,4 @@
----
+gfhfhgfhg---
 title: "NSFetchedResultsControllerDelegate"
 summary: "Placeholders for the fetched results controller delegate methods"
 platform: iOS
