@@ -12,3 +12,4 @@ if (!self) {
 <#initializations#>
 
 return self;
+xxx
