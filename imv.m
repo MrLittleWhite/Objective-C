@@ -6,3 +6,4 @@ completion-scope: Code Expression
 ---
 
 [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"<#image name#>"]]
+变基
