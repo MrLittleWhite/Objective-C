@@ -14,9 +14,9 @@ completion-scope: Class Implementation
 
         [composeViewController setSubject:<#Subject#>];
         [composeViewController setMessageBody:<#Body#> isHTML:YES];
-        [composeViewController setToRecipients:@[<#Recipients#>]];
+        [composeViewController范德萨发生 setToRecipients:@[<#Recipients#>]];
 
-        [self presentViewController:composeViewController animated:animated completion:nil];
+        [self presentViewController:composeViewController animated:animated completion:nil];dede
     } else {
         [[[UIAlertView alloc] initWithTitle:NSLocalizedString(@"Error", nil) message:NSLocalizedString(@"<#Cannot Send Mail Message#>", nil) delegate:nil cancelButtonTitle:NSLocalizedString(@"OK", nil) otherButtonTitles:nil] show];
     }

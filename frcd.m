@@ -1,4 +1,4 @@
----
+gfhfhgfhg---
 title: "NSFetchedResultsControllerDelegate"
 summary: "Placeholders for the fetched results controller delegate methods"
 platform: iOS
@@ -25,6 +25,8 @@ completion-scope: Class Implementation
             break;
     }
 }
+
+shenmeguiXXX
 
 - (void)controller:(NSFetchedResultsController *)controller
    didChangeObject:(id)object
