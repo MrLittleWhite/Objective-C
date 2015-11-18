@@ -15,6 +15,7 @@ completion-scope: Class Implementation
     <# implementation #>
 
     return self;
+    testxxx
 }
 
 - (void)encodeWithCoder:(NSCoder *)coder {
